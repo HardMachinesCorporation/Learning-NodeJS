@@ -120,4 +120,4 @@ pm2 startup
 
 👉 Clustering is a **must** for **production-ready** Nuxt.js & NestJS apps!  
 
-Would you like to explore **load balancing** with Nginx next? 😊
+
